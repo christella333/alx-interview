@@ -1,0 +1,1 @@
+its triangle pascal
